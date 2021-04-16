@@ -7,5 +7,5 @@ Memory Cards game made with a few YouTube tutorials (Unity v. 2019.3.14).
 - If the player chooses different images, both cards are turned back.
 - The game ends when there are no cards left on the table.
 
-Sure that the code could better, and we no need 2 scripts, but for now this is my Frankenstein.
+Sure the code could better, and we perhaps no need 2 scripts, but for now this is my Frankenstein.
 Thank you for your time and have a nice day. :)
